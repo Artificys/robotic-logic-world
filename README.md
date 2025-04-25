@@ -14,6 +14,25 @@ Thomas Byrne
 ## Date
 4/25/2025
 
+## Usage
+
+To spawn in items into the world, use the buttons on the left control panel. 
+
+To move those objects, you can click and drag to a new square. 
+
+    The robot requires you to click to robot, andthen control with the D-Pad & A/B buttons.
+     
+    - The A button picks up a box (regardless of height, as long as it is in front of you)
+    - The B button drops the box, either onto the floor or a shelf.
+    - The robot turns left and right, and moves forwards/backwards.
+
+To orbit around the world, hold ALT key and then:
+
+    Left click + drag: rotate the world
+    Right click + drag: Pan around
+    Zoom: ...zoom
+
+
 ## Installation
 Instructions for how to install the software:
 
