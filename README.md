@@ -10,6 +10,7 @@ Currently, it is not fully functional, as the simulation had a few bugs with the
 
 ## Author
 Thomas Byrne
+Jayden Smith
 
 ## Date
 4/25/2025
